@@ -1,0 +1,6 @@
+name: Hub
+main: me.centy.main.Main
+author: Centy
+version: 1.0
+commands:
+  particle:
